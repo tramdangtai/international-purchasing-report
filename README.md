@@ -42,7 +42,7 @@ Trước đây, việc mua hàng Quốc tế của phòng Merchandise chỉ dự
 
 4. **Thiết kế báo cáo (Report)**
    - Sử dụng **Pivot Table** thay vì biểu đồ để hiển thị số liệu chi tiết (vì quản lý cần dữ liệu cụ thể).  
-   - Thiết lập **Slicer** cho Brand, Vendor, Country, Category, Forecast Option, v.v.  
+   - Thiết lập **Slicer** cho Brand, Vendor, Category, Forecast Option, v.v.  
    - Thảo luận với quản lý để tối ưu giao diện và tần suất cập nhật theo lịch mua hàng quốc tế.
 
 ---
@@ -60,7 +60,7 @@ Trước đây, việc mua hàng Quốc tế của phòng Merchandise chỉ dự
 |--------------------|----------------|
 | **Excel Power Query** | Tổng hợp và làm sạch dữ liệu từ nhiều nguồn |
 | **Power Pivot (Data Model)** | Tạo mối quan hệ giữa các bảng dữ liệu |
-| **DAX** | Tính toán Forecast Options, OM, Suggest Order Qty |
+| **DAX** | Tính toán Forecast Options, Suggest Order Qty |
 | **Pivot Table / Slicer** | Hiển thị báo cáo và hỗ trợ lọc linh hoạt |
 | **Folder Data Structure** | Quản lý dữ liệu nhập khẩu rõ ràng, dễ cập nhật |
 
